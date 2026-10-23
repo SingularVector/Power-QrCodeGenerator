@@ -20,7 +20,7 @@ The above example will create a QR containing access information for a network w
 
 Module relies on *QrCoder* dll which is embedded in module's manifest as string.
 
-**Note:** Instructions on how to embed assemblies via string can be [found here](https://pscustomobject.github.io/powershell/howto/PowerShell-Add-Assembly/).
+**Note:** Instructions on how to embed assemblies via string can be [found here](https://singularvector.github.io/powershell/howto/PowerShell-Add-Assembly/).
 
 ## Module Status
 
