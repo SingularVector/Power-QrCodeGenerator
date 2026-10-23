@@ -13,7 +13,7 @@
 	Author = 'PsCustomObject - Daniele Catanesi'
 	
 	# Company or vendor of this module
-	CompanyName   = 'https://pscustomobject.github.io/'
+	CompanyName   = 'https://singularvector.github.io/'
 	
 	# Copyright statement for this module
 	Copyright	  = '(c) 2020 - Daniele Catanesi (MIT License)'
@@ -93,10 +93,10 @@
 			Tags	   = @('QrCodeGenerator', 'PsCustomObject')
 			
 			# A URL to the license for this module.
-			LicenseUri = 'https://github.com/PsCustomObject/New-QrCode/blob/master/LICENSE'
+			LicenseUri = 'https://github.com/SingularVector/Power-QrCodeGenerator/blob/master/LICENSE'
 			
 			# A URL to the main website for this project.
-			ProjectUri = 'https://github.com/PsCustomObject/New-QrCode'
+			ProjectUri = 'https://github.com/SingularVector/Power-QrCodeGenerator'
 			
 			# A URL to an icon representing this module.
 			# IconUri = ''
